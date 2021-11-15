@@ -1,0 +1,24 @@
+{
+  "name": "estore",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abrar Faisal",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrarshovon/Estore-PHP-.git"
+  },
+  "keywords": [
+    "ecommerce",
+    "using",
+    "PHP"
+  ],
+  "bugs": {
+    "url": "https://github.com/abrarshovon/Estore-PHP-/issues"
+  },
+  "homepage": "https://github.com/abrarshovon/Estore-PHP-#readme",
+  "description": ""
+}
