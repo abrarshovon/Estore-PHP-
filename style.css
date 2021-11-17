@@ -1,3 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100&family=Rubik:wght@300&family=Shippori+Antique&display=swap");
+/* global classes*/
+button, button:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
 
+.font-raleway {
+  font-family: "Raleway", cursive;
+}
+
+.font-rubic {
+  font-family: "Rubic", cursive;
+}
+
+.font-shippori {
+  font-family: "Shippori", cursive;
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
+.font-size-14 {
+  font-size: 14px;
+}
+
+.font-size-16 {
+  font-size: 16px;
+}
+
+.font-size-20 {
+  font-size: 20px;
+}
+
+.color-primary {
+  color: #c76037;
+}
+
+.color-primary-bg {
+  background: #c76037;
+}
+
+.color-secondary {
+  color: #0a0aac;
+}
+
+.color-secondary-bg {
+  background: #0a0aac;
+}
 
 /*# sourceMappingURL=style.css.map */
